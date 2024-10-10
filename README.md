@@ -1,7 +1,7 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">An Aspiring Machine learning engineer</h3>
-<img align="right" src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="coding">
+<img align="right" width="350" src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkr72&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkr72" /> </p>
 
