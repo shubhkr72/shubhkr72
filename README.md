@@ -1,4 +1,4 @@
-![log](https://github.com/shubhkr72/shubhkr72/blob/main/Github%20Banner.gif)
+![log](https://github.com/shubhkr72/shubhkr72/blob/main/Github%20Banner2.gif)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">An Aspiring Machine learning engineer</h3>
 <img align="right" width="350" src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="coding">
