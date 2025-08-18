@@ -120,6 +120,11 @@
 </p>
 
 ---
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaTiwari342005&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  </a>
+</p>
 
 ### ✨ Quote of the Day  
 <p align="center">
