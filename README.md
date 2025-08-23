@@ -116,7 +116,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhkr72&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhkr72&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="160"/>
 </p>
 
 ---
