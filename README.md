@@ -6,7 +6,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | CSE @ NIT Agartala</h3>
+<h3 align="center">Software Development Engineer | CSE @ NIT Agartala</h3>
 
 <p align="center">
   <img src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="Coding" width="350"/>
@@ -14,15 +14,15 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### 👨‍💻 About Me  
-- 🌱 Currently learning **Machine Learning, Deep Learning, and Computer Vision**  
-- 💬 Ask me about **DSA, ML, AI, and MERN Development**  
-- 📫 Reach me at: **shubhkr1320@gmail.com**  
-- ⚡ Fun fact: I love solving problems & building cool projects  
+###  About Me  
+- Currently learning **Machine Learning, Deep Learning, and Computer Vision**  
+- Ask me about **DSA, ML, AI, and MERN Development**  
+- Reach me at: **shubhkr1320@gmail.com**  
+- Fun fact: I love solving problems & building cool projects  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### 🌐 Connect with Me  
+### Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/shubham-sebrin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -40,9 +40,9 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🌐 MERN Development  
+### MERN Development  
 <p align="left">
   <!-- Tech Stack Shields -->
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -57,7 +57,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### 📊 Data Analytics Tools  
+### Data Analytics Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -71,7 +71,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### 🤖 Machine Learning Tools & Libraries  
+### Machine Learning Tools & Libraries  
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -84,7 +84,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### 🧠 Deep Learning Tools & Frameworks  
+### Deep Learning Tools & Frameworks  
 <p align="left">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -94,7 +94,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### ⚡ DSA & Programming  
+### DSA & Programming  
 <p align="left">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -105,7 +105,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### ⚙️ Other Tools & Platforms  
+### Other Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -117,15 +117,9 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhkr72&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhkr72&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhkr72&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="160"/>
-</p>
+### GitHub Stats  
+![](https://github-readme-stats.shion.dev/api?username=shubhkr72&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shubhkr72&theme=dark&hide_border=false)<br/>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 <p align="center">
@@ -136,9 +130,6 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=shubhkr72&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
-
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
@@ -148,7 +139,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
-### ✨ Quote of the Day  
+### Quote of the Day  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </p>
@@ -156,4 +147,4 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
-<p align="center">⚡ Keep coding, keep learning, and keep growing 🚀</p>
+<p align="center"> Keep coding, keep learning, and keep growing </p>
