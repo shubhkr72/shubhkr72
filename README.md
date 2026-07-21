@@ -6,19 +6,13 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Software Development Engineer | CSE @ NIT Agartala</h3>
+<h3 align="center">Software Development Engineer | CSE @ NIT Agartala 2027</h3>
 
 <p align="center">
   <img src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="Coding" width="350"/>
 </p>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
-###  About Me  
-- Currently learning **Machine Learning, Deep Learning, and Computer Vision**  
-- Ask me about **DSA, ML, AI, and MERN Development**  
-- Reach me at: **shubhkr1320@gmail.com**  
-- Fun fact: I love solving problems & building cool projects  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
