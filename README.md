@@ -1,11 +1,10 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://github.com/shubhkr72/shubhkr72/blob/main/Github%20Banner2.gif" alt="Welcome Banner" width="100%"/>
 </p>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
+<h1 align="center">Hi, I'm Shubham Kumar</h1>
 <h3 align="center">Software Development Engineer | CSE @ NIT Agartala 2027</h3>
 
 <p align="center">
@@ -127,7 +126,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 📊 GitHub Activity Overview  
+##  GitHub Activity Overview  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhkr72&theme=github_dark)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
