@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Shubham Kumar</h1>
-<h3 align="center">Software Development Engineer | CSE @ NIT Agartala 2027</h3>
+<h3 align="center">Software Developmen Engineer | CSE @ NIT Agartala 2027</h3>
 
 <p align="center">
   <img src="https://github.com/shubhkr72/shubhkr72/blob/main/git_anime.gif" alt="Coding" width="350"/>
